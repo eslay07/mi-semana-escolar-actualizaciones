@@ -1,5 +1,8 @@
 # Mi Semana Escolar — actualizaciones
 
+[Guía visual actual con capturas (PDF)](docs/portafolio/Guia_Visual_Actual.pdf) · [Procedencia y alcance de las muestras](docs/portafolio/README.md)
+
+
 ## Lectura rápida para evaluar el proyecto
 
 Canal público de descargas y actualización de una aplicación familiar de tareas y avances escolares.
