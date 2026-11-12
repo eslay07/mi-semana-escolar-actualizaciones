@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-12",
+ "updated": "2026-11-12b",
  "notes": [
   {
    "id": "zelda-oot-switch2",
@@ -402,6 +402,131 @@
    "emoji": "🎮",
    "category": "Videojuegos",
    "text": "El primer Nintendo, antes de los videojuegos, fabricaba naipes: empezó en 1889."
+  },
+  {
+   "emoji": "🦒",
+   "category": "Animales",
+   "text": "Las jirafas tienen el mismo número de huesos en el cuello que los humanos: siete."
+  },
+  {
+   "emoji": "🐝",
+   "category": "Animales",
+   "text": "Las abejas se comunican con un «baile» que indica dónde están las flores."
+  },
+  {
+   "emoji": "🐘",
+   "category": "Animales",
+   "text": "Los elefantes pueden reconocerse en un espejo, algo que muy pocos animales logran."
+  },
+  {
+   "emoji": "🦉",
+   "category": "Animales",
+   "text": "Los búhos no pueden mover los ojos: por eso giran mucho la cabeza."
+  },
+  {
+   "emoji": "🐧",
+   "category": "Animales",
+   "text": "El pingüino de Galápagos es el único pingüino que vive de forma natural en el hemisferio norte, gracias a las islas al norte de la línea ecuatorial."
+  },
+  {
+   "emoji": "🌋",
+   "category": "Ecuador",
+   "text": "El Cotopaxi es uno de los volcanes activos más altos del mundo."
+  },
+  {
+   "emoji": "🍫",
+   "category": "Ecuador",
+   "text": "Ecuador es famoso por su cacao fino de aroma, muy apreciado para hacer chocolate."
+  },
+  {
+   "emoji": "🦋",
+   "category": "Ecuador",
+   "text": "Ecuador es uno de los países con más especies de aves por kilómetro cuadrado del planeta."
+  },
+  {
+   "emoji": "🌙",
+   "category": "Ciencia",
+   "text": "Siempre vemos la misma cara de la Luna, porque tarda lo mismo en girar sobre sí misma que en dar la vuelta a la Tierra."
+  },
+  {
+   "emoji": "☀️",
+   "category": "Ciencia",
+   "text": "En el Sol cabrían alrededor de un millón de Tierras."
+  },
+  {
+   "emoji": "🪐",
+   "category": "Ciencia",
+   "text": "Saturno es tan poco denso que, en teoría, flotaría en una bañera gigante de agua."
+  },
+  {
+   "emoji": "❄️",
+   "category": "Ciencia",
+   "text": "No hay dos copos de nieve iguales porque cada uno crece en condiciones un poco distintas."
+  },
+  {
+   "emoji": "💧",
+   "category": "Ciencia",
+   "text": "Cerca del 71 % de la superficie de la Tierra está cubierta de agua."
+  },
+  {
+   "emoji": "🦷",
+   "category": "Ciencia",
+   "text": "El esmalte de los dientes es la sustancia más dura del cuerpo humano."
+  },
+  {
+   "emoji": "👃",
+   "category": "Ciencia",
+   "text": "Gran parte de lo que llamamos sabor en realidad lo detecta la nariz."
+  },
+  {
+   "emoji": "🎵",
+   "category": "Curiosidades",
+   "text": "La canción «Cumpleaños feliz» es una de las más cantadas del mundo."
+  },
+  {
+   "emoji": "📚",
+   "category": "Curiosidades",
+   "text": "La palabra «robot» viene del checo «robota», que significa trabajo forzado."
+  },
+  {
+   "emoji": "🎲",
+   "category": "Matemática",
+   "text": "Si lanzas dos dados, el número que más veces sale como suma es el 7."
+  },
+  {
+   "emoji": "🔢",
+   "category": "Matemática",
+   "text": "El número pi tiene infinitos decimales y nunca se repite en un patrón fijo."
+  },
+  {
+   "emoji": "📐",
+   "category": "Matemática",
+   "text": "Un hexágono es la figura que usan las abejas en sus panales porque aprovecha el espacio con menos cera."
+  },
+  {
+   "emoji": "🎮",
+   "category": "Videojuegos",
+   "text": "Pac-Man se inspiró en una pizza a la que le faltaba una porción, según su creador."
+  },
+  {
+   "emoji": "🟩",
+   "category": "Videojuegos",
+   "text": "El Creeper de Minecraft nació de un error al intentar modelar un cerdo."
+  },
+  {
+   "emoji": "🐉",
+   "category": "Animación",
+   "text": "Dragon Ball se publicó por primera vez como manga en 1984."
+  },
+  {
+   "emoji": "🦕",
+   "category": "Animación",
+   "text": "Para Toy Story, los animadores estudiaron juguetes reales para que se movieran de forma creíble."
+  },
+  {
+   "emoji": "🏆",
+   "category": "Videojuegos",
+   "text": "Super Mario Bros. de 1985 es uno de los videojuegos más vendidos de su época."
   }
  ]
 }
