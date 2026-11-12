@@ -1,0 +1,407 @@
+{
+ "version": 1,
+ "updated": "2026-11-12",
+ "notes": [
+  {
+   "id": "zelda-oot-switch2",
+   "category": "Videojuegos",
+   "title": "Ocarina of Time regresa en Nintendo Switch 2",
+   "body": "Nintendo lanzó el 5 de noviembre una nueva versión de The Legend of Zelda: Ocarina of Time para Switch 2. Uno de los detalles más comentados: puedes tocar la ocarina soplando o cantando cerca del micrófono de la consola.",
+   "source": "Nintendo",
+   "url": "https://www.nintendo.com/en-gb/-3229019.html",
+   "emoji": "🗡️",
+   "date": "2026-11-05",
+   "question": "Si pudieras tocar una canción mágica en un juego, ¿qué haría tu canción?"
+  },
+  {
+   "id": "pikmin4-switch2",
+   "category": "Videojuegos",
+   "title": "Pikmin 4 llega mejorado a Switch 2 con Dandori Academy",
+   "body": "El 12 de noviembre sale Pikmin 4 – Nintendo Switch 2 Edition, que suma un modo nuevo llamado Dandori Academy. Dandori es la palabra que usan en el juego para planificar bien: organizar a tu equipo para hacer más en menos tiempo. ¡Igual que organizar tus tareas!",
+   "source": "Nintendo",
+   "url": "https://www.nintendo.com/en-gb/-3229019.html",
+   "emoji": "🌱",
+   "date": "2026-11-12",
+   "question": "¿Qué tarea de esta semana podrías organizar con estilo Dandori?"
+  },
+  {
+   "id": "sonic-pico-park",
+   "category": "Videojuegos",
+   "title": "Sonic se une a PICO PARK",
+   "body": "El 12 de noviembre llega SONIC PICO PARK a Switch y Switch 2. PICO PARK es famoso por sus retos cooperativos: solo se superan si todo el grupo se pone de acuerdo.",
+   "source": "Nintendo",
+   "url": "https://www.nintendo.com/en-gb/-3229019.html",
+   "emoji": "💨",
+   "date": "2026-11-12",
+   "question": "¿Prefieres los juegos donde compites o los que se ganan en equipo?"
+  },
+  {
+   "id": "dreamlight-keepsake",
+   "category": "Videojuegos",
+   "title": "Disney Dreamlight Valley se va bajo el mar",
+   "body": "La expansión The Keepsake Sea llega el 18 de noviembre y lleva la aventura a un mundo submarino en Switch y Switch 2.",
+   "source": "Nintendo",
+   "url": "https://www.nettosgameroom.com/2026/09/everything-announced-at-nintendo-direct.html",
+   "emoji": "🐚",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "spongebob-titans",
+   "category": "Videojuegos",
+   "title": "Bob Esponja vuelve con una aventura nueva",
+   "body": "SpongeBob SquarePants: Titans of the Tide aparece en los calendarios de lanzamiento para el 18 de noviembre. Fondo de Bikini otra vez en problemas.",
+   "source": "Nintendo Everything",
+   "url": "https://nintendoeverything.com/nintendo-pre-order-updates-november-8-2026/",
+   "emoji": "🧽",
+   "date": "2026-11-18"
+  },
+  {
+   "id": "mario-kart-millones",
+   "category": "Videojuegos",
+   "title": "Mario Kart World ya superó los 16 millones",
+   "body": "Según el informe de Nintendo de noviembre, Mario Kart World vendió 16,48 millones de copias y Donkey Kong Bananza 5,05 millones en Switch 2. Si cada copia fuera una persona, ¡serían más que todos los habitantes de Ecuador!",
+   "source": "Nintendo Everything",
+   "url": "https://nintendoeverything.com/?p=928541",
+   "emoji": "🏎️",
+   "date": "2026-11-05",
+   "question": "¿Cuál es tu circuito favorito de Mario Kart?"
+  },
+  {
+   "id": "minecraft-ice-cave",
+   "category": "Videojuegos",
+   "title": "Minecraft prueba cuevas de hielo",
+   "body": "La actualización 26.60 trae en modo experimental un bioma nuevo: la Cueva de Hielo, que aparece bajo los biomas fríos y está hecha sobre todo de hielo compacto y calcita.",
+   "source": "Nintendo Everything",
+   "url": "https://nintendoeverything.com/?p=928169",
+   "emoji": "🧊",
+   "date": "2026-10-28",
+   "question": "¿Qué construirías dentro de una cueva de hielo?"
+  },
+  {
+   "id": "minecraft-live",
+   "category": "Videojuegos",
+   "title": "Minecraft Live y sus cuevas heladas",
+   "body": "Mojang mostró una actualización con cuevas llenas de carámbanos y un zombi congelado. ¿Cómo construirías un refugio para ese bioma?",
+   "source": "Minecraft",
+   "url": "https://www.minecraft.net/es-es/live",
+   "emoji": "⛏️",
+   "date": "2026-09-26"
+  },
+  {
+   "id": "pokemon-go-pawniard",
+   "category": "Videojuegos",
+   "title": "Día de la Comunidad de Pokémon GO: Pawniard",
+   "body": "El 21 de noviembre Pawniard será el protagonista del Día de la Comunidad. Habrá caramelos dobles por captura e incienso que dura tres horas. Pídele a un adulto que te acompañe si sales a jugar.",
+   "source": "Serebii",
+   "url": "https://serebii.net/news/2026/21-October-2026.shtml",
+   "emoji": "⚔️",
+   "date": "2026-11-21",
+   "until": "2026-11-22"
+  },
+  {
+   "id": "pokemon-go-clefable",
+   "category": "Videojuegos",
+   "title": "Día de Incursiones con Mega-Clefable",
+   "body": "El 28 de noviembre, de 14:00 a 17:00 hora local, Pokémon GO tendrá un Día de Incursiones dedicado a Mega-Clefable, que llega por primera vez al juego.",
+   "source": "Serebii",
+   "url": "https://serebii.net/news/2026/November.shtml",
+   "emoji": "🌙",
+   "date": "2026-11-28",
+   "until": "2026-11-29"
+  },
+  {
+   "id": "pokemon-center-bangkok",
+   "category": "Videojuegos",
+   "title": "Abre un nuevo Pokémon Center en Bangkok",
+   "body": "El 1 de diciembre abre el primer Pokémon Center de Tailandia, en Bangkok, con productos especiales y una medalla para Pokémon HOME.",
+   "source": "Serebii",
+   "url": "https://serebii.net/news/2026/29-October-2026.shtml",
+   "emoji": "🏬",
+   "date": "2026-12-01"
+  },
+  {
+   "id": "mario-kart-circuits",
+   "category": "Videojuegos",
+   "title": "Mario Kart World trae de vuelta circuitos clásicos",
+   "body": "Nintendo mostró diez circuitos clásicos de Super Mario Kart para el modo VS y dos rutas de Eliminación. ¿Qué circuito te gustaría probar?",
+   "source": "Nintendo",
+   "url": "https://www.youtube.com/watch?v=8nX7R2DI_tE",
+   "emoji": "🏁",
+   "date": "2026-09-09",
+   "cover": "https://i.ytimg.com/vi/8nX7R2DI_tE/hqdefault.jpg",
+   "videoId": "8nX7R2DI_tE"
+  },
+  {
+   "id": "disney-hexe",
+   "category": "Animación",
+   "title": "Disney estrena «Hechizo: Bienvenidos a Hexe»",
+   "body": "La próxima película animada de Disney llega a los cines el 27 de noviembre de 2026. Es la gran apuesta del estudio para la temporada antes de Navidad.",
+   "source": "Espinof",
+   "url": "https://www.espinof.com/trailers/nueva-pelicula-animada-disney-tiene-pinta-espectacular-aspira-a-poner-patas-arriba-temporada-prenavidena-trailer-hechizo-bienvenidos-a-hexe",
+   "emoji": "🪄",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "pokemon-horizons",
+   "category": "Animación",
+   "title": "Pokémon Horizontes tendrá cuarta temporada",
+   "body": "Liko y Roy seguirán explorando con sus Pokémon. El estreno anunciado para Estados Unidos es el 27 de febrero de 2027. La fecha puede variar por país.",
+   "source": "The Pokémon Company",
+   "url": "https://press.pokemon.com/en-CA/Pokemon-Horizons-The-Series-to-Return-for-Fourth-Season",
+   "emoji": "🧭",
+   "date": "2026-10-06"
+  },
+  {
+   "id": "pokemon-wild-card",
+   "category": "Animación",
+   "title": "Pokémon anunció una nueva película animada",
+   "body": "Pokémon: Wild Card está prevista a partir de 2027. En la presentación oficial se mostró un adelanto de la próxima aventura.",
+   "source": "The Pokémon Company",
+   "url": "https://pokemongohub.net/post/news/pokemon-news-this-week-pokemon-night-out-new-animated-movie-pokopia-expansion-part-2-trailer-new-merchandise-and-more/",
+   "emoji": "🎬",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "lego-one-piece",
+   "category": "Animación",
+   "title": "Usopp cuenta las aventuras de One Piece en LEGO",
+   "body": "En este especial animado de dos partes, Usopp le cuenta a Chopper cómo se formó la tripulación. Conociendo a Usopp, ¿cuánto crees que exagera?",
+   "source": "Netflix",
+   "url": "https://www.netflix.com/tudum/articles/one-piece-lego-animated-special-release-date",
+   "emoji": "🏴‍☠️",
+   "date": "2026-09-29"
+  },
+  {
+   "id": "animacion-2027",
+   "category": "Animación",
+   "title": "Lo que viene en 2027: Bluey, Frozen 3 y más",
+   "body": "Para 2027 están anunciadas Bluey: La película (fecha tentativa, 6 de agosto) y Frozen 3 (24 de noviembre). Las fechas pueden cambiar.",
+   "source": "Paloma y Nacho",
+   "url": "https://palomaynacho.com/hhoi",
+   "emoji": "🍿",
+   "date": "2026-11-01",
+   "question": "¿Qué película animada esperas más?"
+  },
+  {
+   "id": "voyager-dia-luz",
+   "category": "Ciencia",
+   "title": "La Voyager 1 está a casi un día-luz de la Tierra",
+   "body": "Lanzada en 1977, la sonda Voyager 1 está tan lejos que su señal, viajando a la velocidad de la luz, tarda cerca de un día completo en llegar a la Tierra. Los ingenieros apagan aparatos para ahorrar energía y mantenerla funcionando.",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/2026/11/",
+   "emoji": "🛰️",
+   "date": "2026-11-03",
+   "question": "Si enviaras un mensaje que tarda un día en llegar, ¿qué escribirías?"
+  },
+  {
+   "id": "perseverance-record",
+   "category": "Ciencia",
+   "title": "Perseverance bate el récord de distancia en Marte",
+   "body": "El robot Perseverance ya recorrió unas 28,10 millas (más de 45 km) en Marte, más que cualquier vehículo en otro mundo. Gran parte del camino lo hizo conduciendo solo, con su sistema de navegación autónoma.",
+   "source": "ScienceDaily / NASA",
+   "url": "https://www.sciencedaily.com/news/space_time/nasa",
+   "emoji": "🔴",
+   "date": "2026-11-02"
+  },
+  {
+   "id": "escapade-marte",
+   "category": "Ciencia",
+   "title": "Dos naves gemelas usan la Tierra como resortera",
+   "body": "Las sondas ESCAPADE de la NASA pasaron cerca de la Tierra para ganar impulso con su gravedad y ya van rumbo a Marte, donde estudiarán cómo el viento solar afecta a ese planeta.",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/?p=498664",
+   "emoji": "🚀",
+   "date": "2026-11-10"
+  },
+  {
+   "id": "chapea-378",
+   "category": "Ciencia",
+   "title": "378 días viviendo en un «Marte» de mentira",
+   "body": "La tripulación de la misión CHAPEA 2 pasó 378 días en un hábitat que simula Marte para ayudar a preparar viajes reales. Cultivaron plantas, hicieron ejercicio y trabajaron con retrasos en las comunicaciones.",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/?p=118093",
+   "emoji": "🏠",
+   "date": "2026-11-08",
+   "question": "¿Qué llevarías para no aburrirte un año entero en Marte?"
+  },
+  {
+   "id": "venus",
+   "category": "Curiosidades",
+   "title": "¿Qué dura más en Venus: una vuelta o un año?",
+   "body": "Venus tarda unos 243 días terrestres en girar sobre su eje y unos 225 en dar la vuelta al Sol. ¿Dónde cumplirías años más a menudo si contaras los años por vueltas al Sol?",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/venus/venus-facts/",
+   "emoji": "🪐"
+  },
+  {
+   "id": "quipu",
+   "category": "Curiosidades",
+   "title": "¿Puedes guardar números con un cordón?",
+   "body": "Los incas usaban quipus. El color, la posición y el tipo de nudo ayudaban a leer las cantidades. Imagina un código con nudos para contar tus puntos.",
+   "source": "Smithsonian",
+   "url": "https://www.si.edu/collections/snapshot/quipu",
+   "emoji": "🪢"
+  },
+  {
+   "id": "leap",
+   "category": "Curiosidades",
+   "title": "El cuarto de día que nos regala un 29 de febrero",
+   "body": "Una vuelta de la Tierra al Sol tarda cerca de 365 días y un cuarto. Cuatro cuartos suman un día: por eso el calendario agrega un día en la mayoría de los años divisibles por cuatro.",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/earth/facts/",
+   "emoji": "📅"
+  }
+ ],
+ "facts": [
+  {
+   "emoji": "🐙",
+   "category": "Ciencia",
+   "text": "Los pulpos tienen tres corazones y su sangre es azul."
+  },
+  {
+   "emoji": "🍯",
+   "category": "Curiosidades",
+   "text": "La miel bien guardada casi no se echa a perder: se encontró miel comestible en tumbas del antiguo Egipto."
+  },
+  {
+   "emoji": "🏔️",
+   "category": "Ecuador",
+   "text": "La cumbre del Chimborazo es el punto de la superficie terrestre más alejado del centro de la Tierra, por la forma achatada del planeta."
+  },
+  {
+   "emoji": "🐢",
+   "category": "Ecuador",
+   "text": "Las tortugas gigantes de Galápagos pueden vivir más de 100 años."
+  },
+  {
+   "emoji": "🐦",
+   "category": "Ciencia",
+   "text": "Los colibríes son las únicas aves capaces de volar hacia atrás."
+  },
+  {
+   "emoji": "🌕",
+   "category": "Ciencia",
+   "text": "La Gran Muralla China no se puede ver a simple vista desde la Luna."
+  },
+  {
+   "emoji": "⭐",
+   "category": "Ciencia",
+   "text": "Las estrellas de mar no tienen cerebro."
+  },
+  {
+   "emoji": "⚡",
+   "category": "Ciencia",
+   "text": "Un rayo puede estar unas cinco veces más caliente que la superficie del Sol."
+  },
+  {
+   "emoji": "🕹️",
+   "category": "Videojuegos",
+   "text": "Pong, de 1972, fue uno de los primeros videojuegos comerciales exitosos."
+  },
+  {
+   "emoji": "🍄",
+   "category": "Videojuegos",
+   "text": "Antes de llamarse Mario, el héroe de Donkey Kong (1981) era conocido como Jumpman."
+  },
+  {
+   "emoji": "⚡",
+   "category": "Videojuegos",
+   "text": "Pokémon viene de «Pocket Monsters»: monstruos de bolsillo."
+  },
+  {
+   "emoji": "⛏️",
+   "category": "Videojuegos",
+   "text": "Minecraft es el videojuego más vendido de la historia, con cientos de millones de copias."
+  },
+  {
+   "emoji": "🧱",
+   "category": "Videojuegos",
+   "text": "Tetris fue creado en 1984 por Alekséi Pázhitnov, un programador de la Unión Soviética."
+  },
+  {
+   "emoji": "💨",
+   "category": "Videojuegos",
+   "text": "Sonic the Hedgehog debutó en 1991."
+  },
+  {
+   "emoji": "🐭",
+   "category": "Animación",
+   "text": "Steamboat Willie (1928) fue una de las primeras caricaturas con sonido sincronizado, protagonizada por Mickey Mouse."
+  },
+  {
+   "emoji": "🤠",
+   "category": "Animación",
+   "text": "Toy Story (1995) fue el primer largometraje animado hecho completamente por computadora."
+  },
+  {
+   "emoji": "💡",
+   "category": "Ciencia",
+   "text": "La luz del Sol tarda unos 8 minutos en llegar a la Tierra."
+  },
+  {
+   "emoji": "🔭",
+   "category": "Ciencia",
+   "text": "Un año luz es la distancia que recorre la luz en un año: unos 9,46 billones de kilómetros."
+  },
+  {
+   "emoji": "🌪️",
+   "category": "Ciencia",
+   "text": "La Gran Mancha Roja de Júpiter es una tormenta más grande que toda la Tierra."
+  },
+  {
+   "emoji": "🦈",
+   "category": "Ciencia",
+   "text": "Los tiburones existen desde antes que los árboles."
+  },
+  {
+   "emoji": "🦴",
+   "category": "Ciencia",
+   "text": "El cuerpo de un adulto tiene 206 huesos; el de un bebé tiene más, porque algunos se unen al crecer."
+  },
+  {
+   "emoji": "🧊",
+   "category": "Ciencia",
+   "text": "Con la presión y temperatura exactas, el agua puede hervir y congelarse al mismo tiempo: se llama punto triple."
+  },
+  {
+   "emoji": "🐨",
+   "category": "Animales",
+   "text": "Los koalas pueden dormir entre 18 y 22 horas al día."
+  },
+  {
+   "emoji": "🗣️",
+   "category": "Curiosidades",
+   "text": "El español es el segundo idioma con más hablantes nativos del mundo, después del chino mandarín."
+  },
+  {
+   "emoji": "🌊",
+   "category": "Curiosidades",
+   "text": "El Amazonas es el río con mayor caudal del planeta."
+  },
+  {
+   "emoji": "0️⃣",
+   "category": "Matemática",
+   "text": "Los mayas usaban el cero mucho antes de que se usara en Europa."
+  },
+  {
+   "emoji": "🛰️",
+   "category": "Ciencia",
+   "text": "La Estación Espacial Internacional da una vuelta a la Tierra en unos 90 minutos: sus astronautas ven unos 16 amaneceres al día."
+  },
+  {
+   "emoji": "🌎",
+   "category": "Ecuador",
+   "text": "En la Mitad del Mundo puedes poner un pie en el hemisferio norte y otro en el sur."
+  },
+  {
+   "emoji": "🧠",
+   "category": "Ciencia",
+   "text": "Tu cerebro usa cerca del 20 % de la energía de tu cuerpo, aunque pesa mucho menos."
+  },
+  {
+   "emoji": "🎮",
+   "category": "Videojuegos",
+   "text": "El primer Nintendo, antes de los videojuegos, fabricaba naipes: empezó en 1889."
+  }
+ ]
+}
